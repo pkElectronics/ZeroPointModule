@@ -6,6 +6,8 @@ The ZeroPointModule is a carrier board for the Raspberry Pi Zero 2W with some ap
 First revision came with options to mount the CAN-Bus related components either as SMD or THT as well as with some nice hardware bugs.
 Revision two has those possibility removed as well as the hardware bugs fixes, additionally some more features were added.
 
+!(Early prototypes of the ZPM)[DOC/P1010022.JPG]
+
 ## Features
 - 5V 5A DCDC converter powering the Pi and added peripherals
 - MCP2515 CAN-Bus Controller and corresponding transceiver
