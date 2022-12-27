@@ -3,6 +3,9 @@
  
 The ZeroPointModule is a carrier board for the Raspberry Pi Zero 2W with some application specific expansion making it suitable for applications such as 3D-printing and prototyping of perception algorithms.
 
+First revision came with options to mount the CAN-Bus related components either as SMD or THT as well as with some nice hardware bugs.
+Revision two has those possibility removed as well as the hardware bugs fixes, additionally some more features were added.
+
 ## Features
 - 5V 5A DCDC converter powering the Pi and added peripherals
 - MCP2515 CAN-Bus Controller and corresponding transceiver
@@ -48,6 +51,8 @@ DFM Folder contains all files necessary for assembly (Gerber Files, BOM and SMT 
 SRC Folder contains schematic and board design files as exported from Fusion360 as well as stepfiles for the low- and the high-variant.
 For easier viewing the schematic is also included as PDF file.
 
+DOC Folder contains some more images than what has been shown here.
+
 # Kernel configuration
 
 To use the hardware pwm feature of the BCM SoC connected to the two mosfet stages, add this line to your /boot/config.txt
@@ -73,7 +78,7 @@ Although this project was initially planned to be utilized in 3D-printers other 
 
 # Special thanks
 
-Many thanks to my beta-testers, [meteyou](https://github.com/meteyou), linky007 and florian
+Many thanks to my betatesters, [meteyou](https://github.com/meteyou), linky007 and florian
 This project is (partially) sponsored by [JLCPCB](https://jlcpcb.com/).
 
 
