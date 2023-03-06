@@ -2,6 +2,7 @@
  A Raspberry Pi Zero 2W Carrier for 3D-printing and autonomous driving
  
  For those looking for the documentation of the commerically available ZPMs, please click [here](commercial.md)
+ 
  Auf der Suche nach der Dokumenation für die kommerziell erhältnlichen ZPMs, bitte [hier entlang](commercial.md)
  
 The ZeroPointModule is a carrier board for the Raspberry Pi Zero 2W with some application specific expansion making it suitable for applications such as 3D-printing and prototyping of perception algorithms.
