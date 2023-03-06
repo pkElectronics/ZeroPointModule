@@ -5,6 +5,8 @@ Wenn Sie ein ZeroPointModule bei IB-Wistinghausen oder einem anderen autorisiert
 ### Zusammenbau
 Der Lieferumfang umfasst jeweils zwei M2.5 Schrauben, Muttern und Abstandsbolzen, montieren Sie den Raspberry Pi wie abgebildet.
 
+![Spacer Assembly](DOC/spacer-assembly.JPG)
+
 Die mitgelieferten 4pin Stecker können entweder auf der ober- oder auf der unterseite des Platine angebracht werden. Auf der unterseite entspricht die Pinbelegung der, handelsüblicher PWM Lüfter.
 
 
@@ -36,4 +38,7 @@ Wichtiger Hinweis für alle Klipper Nutzer: Der Port SPI1 ist aufgrund eines Bug
 
 ### Anwendungsbeispiele
 
+#### Beispielsetup Voron 2.4 mit Fysetc Spider und Mellow FLY-SB2040 Toolhead
+
+![VORON 2.4](DOC/Setup%20Voron2.4.png)
 
